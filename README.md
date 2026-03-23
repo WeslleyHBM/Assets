@@ -1,2 +1,2 @@
 # Assets
-repositorio para hospedar imagens
+repositorio para hospedar mídias
